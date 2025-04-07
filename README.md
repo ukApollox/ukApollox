@@ -1,12 +1,67 @@
 # 🔭 I'm currently working on
-- 📚 learning the programming **basics**
-- 🌧️ creating a **weather** dashboard **https://rainaura.vercel.app**
+- 📚 learning the programming **basics** (Year 1)
+- 📱 creating a **Workout AI** where you can generate workouts
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ukapollox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ukapollox&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukapollox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=ukapollox&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Core Technologies
+- **Programming Language:**
+  - Java (version 11 or higher)
+
+- **Build Tools:**
+  - Maven
+
+- **Frameworks:**
+  - Spring Boot (for building microservices and RESTful APIs)
+
+## Database
+- **Relational Database:**
+  - PostgreSQL
+
+## API Development
+- **RESTful Services:**
+  - Spring Web (part of Spring Boot)
+
+## Security
+- **Authentication and Authorization:**
+  - Spring Security
+  - OAuth2 / JWT (JSON Web Tokens)
+
+## Testing
+- **Unit Testing:**
+  - JUnit
+  - Mockito
+
+- **Integration Testing:**
+  - Spring Test
+  - Testcontainers (for testing with Docker)
+
+## DevOps and CI/CD
+- **Containerization:**
+  - Docker
+
+- **Orchestration:**
+  - Kubernetes (for managing containerized applications)
+  - OpenShift (Kubernetes-based platform for deploying applications)
+
+- **CI/CD Tools:**
+  - OpenShift Pipelines (Kubernetes-native CI/CD solution)
+
+- **Configuration Management:**
+  - Ansible
+  - Terraform (for infrastructure as code)
+
+## Version Control
+- **Version Control System:**
+  - Git 
+
+## IDEs and Tools
+- **Integrated Development Environments:**
+  - IntelliJ IDEA
+  - Eclipse
+
+- **API Testing Tools:**
+  - Postman
+  - Swagger
+
+## Additional Tools
+- **Message Brokers:**
+  - Apache Kafka
