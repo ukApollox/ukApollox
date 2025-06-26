@@ -1,14 +1,14 @@
-## Hi there 👋, I'm Apollox
+# Hi there 👋, I'm Apollox
 <!--
-# 🔭 I’m currently working on
+## 🔭 I’m currently working on
 -->
-# 🌱 I'm currently learning
+## 🌱 I'm currently learning
 - 📚 The programming **basics** (apprentice, Year 1)
 - ⚙ DevOps
 <!--
-# 👀 You should check these projects out
+## 👀 You should check these projects out
 -->
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div>
 
   <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
