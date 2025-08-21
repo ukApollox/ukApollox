@@ -3,7 +3,7 @@
 ## 🔭 I’m currently working on
 -->
 ## 🌱 I'm currently learning
-- 📚 The programming **basics** (apprentice, Year 1)
+- 📚 The programming **basics** (apprentice, Year 2)
 - ⚙ DevOps
 <!--
 ## 👀 You should check these projects out
